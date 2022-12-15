@@ -1,0 +1,7 @@
+{
+  "name": "apkrestyy",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
